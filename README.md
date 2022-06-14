@@ -1,7 +1,7 @@
 # Rocketseat Explorer Marathon
 <p align="center">
-Rocketseat Explorer Marathon 
-<a align="center" href="https://evento.rocketseat.com.br/maratona-explorer/episodios/explorer/aula-5/edicao/1"></a>
+<a align="center" href="https://evento.rocketseat.com.br/maratona-explorer/episodios/explorer/aula-5/edicao/1"> Rocketseat Explorer Marathon 
+</a>
 </p>
 <br>
 <p>
