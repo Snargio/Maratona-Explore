@@ -5,11 +5,11 @@ Rocketseat Explorer Marathon
 </p>
 <br>
 <p>
-  <img alt="mockup" src="./imgs/laptop-png.png" width="50%">
+  <img alt="mockup" src="./imgs/laptop-png.png" width="100%">
 </p>
 
 <p>
-  <img alt="mockup" src="./imgs/iphone.png" width="50%">
+  <img alt="mockup" src="./imgs/iphone.png" width="30%">
 </p>
 
 ## :computer: Technologies used
